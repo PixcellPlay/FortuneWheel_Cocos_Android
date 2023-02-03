@@ -1,0 +1,131 @@
+{
+  "builder": {
+    "taskOptionsMap": {
+      "1675086530758": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "makeAfterBuild": true,
+        "__version__": "1.0.2"
+      },
+      "1675087785562": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "makeAfterBuild": true,
+        "__version__": "1.0.2"
+      },
+      "1675091163303": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "makeAfterBuild": true,
+        "__version__": "1.0.2"
+      },
+      "1675093728710": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "makeAfterBuild": true,
+        "__version__": "1.0.2"
+      },
+      "1675159183110": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675171768204": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675242315843": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675244915420": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675247701417": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675247761817": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675426212328": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675442884617": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      },
+      "1675444732297": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      }
+    },
+    "__version__": "1.3.4",
+    "common": {
+      "buildStageGroup": {
+        "build": [
+          "make"
+        ]
+      }
+    },
+    "options": {
+      "android": {
+        "encrypted": false,
+        "xxteaKey": "68F7pYH89A2r6gdb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.2"
+      }
+    }
+  },
+  "__version__": "1.0.2"
+}

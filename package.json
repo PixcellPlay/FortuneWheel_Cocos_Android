@@ -1,0 +1,11 @@
+{
+  "name": "FortuneWheel",
+  "uuid": "6330dd50-e576-4daf-9e66-dd18ca12b155",
+  "version": "3.6.1",
+  "creator": {
+    "version": "3.7.0"
+  },
+  "dependencies": {
+    "gameanalytics": "^4.4.5"
+  }
+}

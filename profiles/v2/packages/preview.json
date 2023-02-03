@@ -1,0 +1,13 @@
+{
+  "__version__": "1.0.1",
+  "preview": {
+    "simulator_orientation": "portrait",
+    "simulator_resolution": 14,
+    "current": {
+      "platform": "browser"
+    }
+  },
+  "general": {
+    "start_scene": "a08b44aa-e3f7-4dd8-b1cc-4cbcf0a61234"
+  }
+}

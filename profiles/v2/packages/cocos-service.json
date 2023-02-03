@@ -1,0 +1,94 @@
+{
+  "builder-options": {
+    "configID": "715117",
+    "services": [],
+    "__version__": "3.0.5"
+  },
+  "builder": {
+    "taskOptionsMap": {
+      "1661332310698": {
+        "configID": "436af4",
+        "services": [],
+        "__version__": "3.0.4"
+      },
+      "1675086530758": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.4"
+      },
+      "1675087785562": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.4"
+      },
+      "1675091163303": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.4"
+      },
+      "1675093728710": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.4"
+      },
+      "1675159183110": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675171768204": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675242315843": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675244915420": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675247701417": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675247761817": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675426212328": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675442884617": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1675444732297": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.5"
+      }
+    },
+    "__version__": "1.3.4",
+    "options": {
+      "web-desktop": {
+        "configID": "715117",
+        "services": [],
+        "__version__": "3.0.4"
+      },
+      "android": {
+        "configID": "715117",
+        "services": []
+      }
+    }
+  },
+  "__version__": "3.0.5"
+}

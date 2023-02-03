@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a007dc7f-685d-47dd-89ed-4aa245c62b4d",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "a007dc7f-685d-47dd-89ed-4aa245c62b4d@6c48a",
+      "displayName": "PigModel_V4_lambert1_AlbedoTransparency",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a007dc7f-685d-47dd-89ed-4aa245c62b4d",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": false,
+    "type": "texture",
+    "redirect": "a007dc7f-685d-47dd-89ed-4aa245c62b4d@6c48a",
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

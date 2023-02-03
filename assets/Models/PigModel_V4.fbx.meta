@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e6f32cb5-9bf6-4fc9-82c7-18d354947798",
+  "files": [],
+  "subMetas": {
+    "e300e": {
+      "importer": "gltf-mesh",
+      "uuid": "e6f32cb5-9bf6-4fc9-82c7-18d354947798@e300e",
+      "displayName": "",
+      "id": "e300e",
+      "name": "Pig_V4.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "e6f32cb5-9bf6-4fc9-82c7-18d354947798@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "498fd": {
+      "importer": "gltf-scene",
+      "uuid": "e6f32cb5-9bf6-4fc9-82c7-18d354947798@498fd",
+      "displayName": "",
+      "id": "498fd",
+      "name": "PigModel_V4.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "e6f32cb5-9bf6-4fc9-82c7-18d354947798@498fd",
+    "assetFinder": {
+      "meshes": [
+        "e6f32cb5-9bf6-4fc9-82c7-18d354947798@e300e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e6f32cb5-9bf6-4fc9-82c7-18d354947798@8d883"
+      ],
+      "scenes": [
+        "e6f32cb5-9bf6-4fc9-82c7-18d354947798@498fd"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}
